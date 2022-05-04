@@ -1,0 +1,11 @@
+DEPENDENCIES
+  apt
+  asdf
+
+GRAPH
+  apt (7.4.2)
+  ark (6.0.4)
+    seven_zip (>= 3.1)
+  asdf (2.0.0)
+    ark (>= 0.0.0)
+  seven_zip (4.2.2)
